@@ -1,3 +1,3 @@
 # Calculator
-My first JavaScript code.
+My first JavaScript project.
 This is a basic Calculator.
